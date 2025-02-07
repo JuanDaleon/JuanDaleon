@@ -29,8 +29,7 @@
   <img  alt="flask" src ="https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white"/>
   <img  alt="jinja" src ="https://img.shields.io/badge/jinja-white.svg?style=for-the-badge&logo=jinja&logoColor=black"/>
   <img alt=".NET" src="https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white"/>
-  <img alt="SolidWorks" src="https://img.shields.io/badge/%20%20SolidWorks%20%20-FF0000?style=for-the-badge&logo=solidworks&logoColor=white"/>
-
+  <img alt="SolidWorks" src="https://github.com/user-attachments/assets/50d38174-b41f-4da7-8005-c6192db2f621"/>
 
  <br><br>
 </div>
