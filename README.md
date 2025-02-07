@@ -3,7 +3,7 @@
 <h3 align="center">M.Sc. Systems & Computing Engineering and Mechatronics Engineer</h3>
 <p align="center">
   <img
-    src="https://komarev.com/ghpvc/?username=JuanDaleon&label=Profile%20views&color=0cce00&style=for-the-badge"
+    src="https://komarev.com/ghpvc/?username=JuanDaleon&logo=github&logoColor=white&label=Cantidad%20Chismos@s%20que%20Visitaron%20mi%20Perfil&color=EFB810&style=for-the-badge"
     alt="JLeon"
   />
 </p>
