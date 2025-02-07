@@ -1,6 +1,12 @@
 <h1 align="center"><b>Hello, I'm Juan David Leon</b> <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
 
 <h3 align="center">M.Sc. Systems & Computing Engineering and Mechatronics Engineer</h3>
+<p align="center">
+  <img
+    src="https://komarev.com/ghpvc/?username=JuanDaleon&label=Profile%20views&color=0cce00&style=for-the-badge"
+    alt="JLeon"
+  />
+</p>
 
 
 <h3 align="center"></h3>
