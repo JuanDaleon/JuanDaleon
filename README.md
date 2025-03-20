@@ -1,6 +1,6 @@
 <h1 align="center"><b>Hello, I'm Juan David Leon</b> <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
 
-<h3 align="center">M.Sc. Systems & Computing Engineering and Mechatronics Engineer</h3>
+<h3 align="center">M.Sc. in Articificial Intelligence & Data Science and Mechatronics Engineer</h3>
 <p align="center">
   <img
     src="https://komarev.com/ghpvc/?username=JuanDaleon&label=%20%20%20%20%20%20%20%20💛💙❤️%20Chismos@s%20que%20Visitaron%20mi%20Perfil&color=EFB810&style=for-the-badge"
