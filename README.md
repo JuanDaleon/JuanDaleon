@@ -50,7 +50,3 @@
   <img alt="Redes de Comunicación" src="https://img.shields.io/badge/Redes%20de%20Comunicaci%C3%B3n-008080?style=for-the-badge&logoColor=white"/>
  <br><br>
 </div>
-<p align="center">
-  <img  src="https://raw.githubusercontent.com/iscpatricio92/iscpatricio92/main/resources/img/github-contribution-grid-snake.svg"
-    alt="iscpatricio92" />
-</p>
